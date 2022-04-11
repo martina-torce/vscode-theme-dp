@@ -1,5 +1,5 @@
 {
-	"name": "Beautiful Theme",
+	"name": "Beautiful Theme ~ Dark",
 	"colors": {
 		
 		"foreground": "#ECF4F7",
@@ -9,14 +9,15 @@
 		"window.activeBorder": "#cc0055",
 		"window.inactiveBorder": "#dbbfcc",
 
-		"editor.background": "#362127",
+		"editor.background": "#471f29",
 		"editor.foreground": "#ECF4F7",
 		"editorWidget.background": "#9e4e70",
 		"widget.shadow": "#9e4e70",
 
 		"editorGroupHeader.tabsBackground": "#492c38",
-		"tab.inactiveBackground": "#110a0d",
+		"tab.inactiveBackground": "#300b1b",
 		"tab.hoverBackground": "#7a4c5f",
+		"editorGroup.border": "#7a4c5f",
 
 		"activityBar.background": "#793f57",
 		"activityBar.inactiveForeground": "#dbbfcc",
@@ -40,7 +41,7 @@
 		"button.hoverBackground": "#7a4c5f",
 		"input.background": "#7a4c5f",
 
-		"panel.background": "#110a0d",
+		"panel.background": "#300b1b",
 
 		"textLink.foreground": "#cc0055",
 		"textLink.activeForeground": "#C3E88D",
@@ -55,7 +56,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ec74e6"
+				"foreground": "#cc0055"
 			}
 		},
 		{
@@ -79,7 +80,7 @@
 				"keyword.operator.logical"
 			],
 			"settings": {
-				"foreground": "#cc0055"
+				"foreground": "#e94388"
 			}
 		},
 		{
@@ -111,7 +112,7 @@
 			"name": "Function Parameter",
 			"scope": "variable.parameter.function",
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#fb5e78"
 			}
 		},
 		{
@@ -148,7 +149,7 @@
 				"punctuation.definition.decorator"
 			],
 			"settings": {
-				"foreground": "#870393"
+				"foreground": "#be06ce"
 			}
 		},
 		{
