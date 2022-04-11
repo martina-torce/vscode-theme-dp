@@ -1,5 +1,5 @@
 {
-	"name": "Beautiful Theme ~ Dark",
+	"name": "Beautiful Theme",
 	"colors": {
 		
 		"foreground": "#ECF4F7",
@@ -41,7 +41,7 @@
 		"button.hoverBackground": "#7a4c5f",
 		"input.background": "#7a4c5f",
 
-		"panel.background": "#300b1b",
+		"panel.background": "#3c1526",
 
 		"textLink.foreground": "#cc0055",
 		"textLink.activeForeground": "#C3E88D",
