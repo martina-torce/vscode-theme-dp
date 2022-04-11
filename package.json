@@ -1,11 +1,20 @@
 {
     "name": "beautiful-theme",
     "displayName": "Beautiful Theme",
-    "description": "An aesthetically pleasing theme to make your programming experience more enjoyable.",
+    "description": "A beautiful aesthetic pink theme for you",
     "publisher": "MartinaTorce",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
-        "vscode": "^1.66.0"
+        "vscode": "^1.32.0"
+    },
+    "icon": "icon.jpg",
+    "author":{
+        "name": "Martina Torcè",
+        "email": "martina.torce@gmail.com",
+        "url": "https://linkedin.com/martina-torce"
+    },
+    "repository": {
+        "url": "https://github.com/martina-torce/beautiful-theme-vsc"
     },
     "categories": [
         "Themes"
