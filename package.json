@@ -1,0 +1,22 @@
+{
+    "name": "beautiful-theme",
+    "displayName": "Beautiful Theme",
+    "description": "An aesthetically pleasing theme to make your programming experience more enjoyable.",
+    "publisher": "MartinaTorce",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Beautiful Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Beautiful Theme-color-theme.json"
+            }
+        ]
+    }
+}
