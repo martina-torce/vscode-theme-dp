@@ -1,5 +1,5 @@
-# Sakura pink+violet theme
+# 🌸 Sakura pink & violet theme 🌸
 
-I hope you enjoy this highly customised, aesthetically pleasing theme.
+I hope you enjoy this highly customised, aesthetically pleasing theme. 🤍
 
-Inspired by sakura aesthetic, this theme has a unique dark purple background.
+Inspired by sakura aesthetic, this theme has a unique dark purple background. ✨

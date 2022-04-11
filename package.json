@@ -1,13 +1,13 @@
 {
     "name": "beautiful-theme",
     "displayName": "Beautiful Theme",
-    "description": "A beautiful aesthetic pink theme for you",
+    "description": "♡ Made with Love ♡",
     "publisher": "MartinaTorce",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.32.0"
     },
-    "icon": "icon.jpg",
+    "icon": "icon.png",
     "author":{
         "name": "Martina Torcè",
         "email": "martina.torce@gmail.com",
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Beautiful Theme",
+                "label": "Beautiful Theme ~ Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Beautiful Theme-color-theme.json"
             }
