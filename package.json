@@ -1,9 +1,9 @@
 {
     "name": "beautiful-theme",
     "displayName": "Beautiful Theme",
-    "description": "♡ Made with Love ♡",
+    "description": "Dark purple and pink theme",
     "publisher": "MartinaTorce",
-    "version": "0.1.3",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.32.0"
     },

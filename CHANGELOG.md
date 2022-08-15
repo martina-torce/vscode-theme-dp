@@ -3,9 +3,6 @@
 ## 0.2.0 (2022-08-16)
 - Majour update for consistency of colours
 
-## 0.1.3 (2022-04-11)
-- Updated colouring
-
 ## 0.1.2 (2022-04-11)
 - Fixed naming issue
 
