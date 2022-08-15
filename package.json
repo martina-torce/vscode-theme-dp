@@ -22,9 +22,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Beautiful Theme ~ Dark",
+                "label": "Beautiful Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Beautiful Theme-color-theme.json"
+                "path": "./themes/theme.json"
             }
         ]
     }
