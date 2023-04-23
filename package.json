@@ -1,20 +1,20 @@
 {
-    "name": "beautiful-theme",
-    "displayName": "Beautiful Theme",
-    "description": "Dark purple and pink theme",
+    "name": "darkpink-theme",
+    "displayName": "Dark Pink Theme",
+    "description": "Dark pink theme for VSCode.",
     "publisher": "MartinaTorce",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.32.0"
     },
-    "icon": "icon.png",
+    "icon": "favicon.ico",
     "author":{
         "name": "Martina Torcè",
         "email": "martina.torce@gmail.com",
-        "url": "https://linkedin.com/martina-torce"
+        "url": "https://martina-torce.github.io"
     },
     "repository": {
-        "url": "https://github.com/martina-torce/beautiful-theme-vsc"
+        "url": "https://github.com/martina-torce/vscode-theme-dp"
     },
     "categories": [
         "Themes"
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Beautiful Theme",
+                "label": "Dark Pink Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/theme.json"
             }

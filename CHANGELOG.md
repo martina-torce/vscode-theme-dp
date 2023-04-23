@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.3.0 (2023-04-23)
+- Updated icon, name and description. 
+
 ## 0.2.0 (2022-08-16)
 - Majour update for consistency of colours
 
